@@ -1,6 +1,6 @@
 # Atom Install
 
-As [Atom](http://atom.io) has matured, there have been some bumps. I have had to uninstall and reinstall Atom due to buggy or sluggish behavior. These scripts automate most of that process.
+As [Atom](http://atom.io) has matured, there have been some bumps. I have had to uninstall/reinstall due to buggy or sluggish behavior. These scripts automate most of that process.
 
 # Install
 
