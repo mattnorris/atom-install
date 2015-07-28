@@ -12,7 +12,7 @@ As [Atom](http://atom.io) has matured, there have been some bumps. I have had to
 
     make dev
 
-If you receive an error that **apm** is not installed, run the *Atom > Install Shell Commands* and try again.
+If you receive an error that **apm** is not installed, run *Atom > Install Shell Commands* and try again.
 
 Also remember to:
 
