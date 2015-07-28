@@ -12,6 +12,8 @@ As [Atom](http://atom.io) has matured, there have been some bumps. I have had to
 
     make dev
 
+If you receive an error that **apm** is not installed, run the *Atom > Install Shell Commands* and try again.
+
 Also remember to:
 
 - [Show Invisibles](https://gist.github.com/timrwood/9242517#comment-1181001).
